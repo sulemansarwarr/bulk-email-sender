@@ -18,3 +18,12 @@ The script:
 2. Asks for recipient email(s), subject, body, and attachment (optional).
 3. Connects securely to Gmail SMTP (via TLS).
 4. Sends the email(s) and prints status updates.
+
+## ⚙️ Setup
+
+### 🔧 Requirements
+
+Install Python dependencies:
+
+```bash
+pip install -r requirements.txt
